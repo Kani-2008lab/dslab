@@ -1,0 +1,73 @@
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 1
+Enter data to insert at end: 10
+
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 2
+Enter data to insert: 20
+Enter position to insert (0 - based index): 1
+
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 5
+linked list: 10 -> 20 -> NULL
+
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 3
+Enter element to search: 20
+element found at position: 1
+
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 4
+Enter position to delete (0 - based index): 1
+
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 5
+linked list: 10 -> NULL
+
+singly linked list operation menu:
+1. insert at end
+2. insert at position
+3. search element
+4. delete element
+5. display list
+6. exit
+Enter your choice: 5
+linked list: 10 -> NULL
+
+
